@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer with 2+ years of production experience — .NET Core / C# backends, Angular frontends, and cloud-native architecture on Azure & AWS. M.S. Information Technology, ASU (GPA 4.0).
 
-&nbsp;|&nbsp; 🌐 [gouthamraju11.github.io](https://gouthamraju11.github.io) &nbsp;|&nbsp; 📧 gouthamraju224@gmail.com
+🌐 [gouthamraju11.github.io](https://gouthamraju11.github.io) &nbsp;|&nbsp; 📧 gouthamraju224@gmail.com
 
 ---
 
