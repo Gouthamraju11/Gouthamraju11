@@ -6,18 +6,25 @@
 
 <p align="center">
   <a href="https://gouthamraju11.github.io">Portfolio</a> ·
+  <a href="https://gouthamraju11.github.io/assets/Goutham_Raju_Resume.pdf">Resume</a> ·
   <a href="https://www.linkedin.com/in/gouthamraju11/">LinkedIn</a> ·
   <a href="mailto:goutham.s@mailjobhub.com">Email</a>
 </p>
 
 ## About
 
-Software engineer with 4+ years building backend services and web applications across financial services, enterprise consulting, and application security. I build production AI systems with retrieval-augmented generation, multi-agent orchestration, model evaluation, confidence-based review workflows, and auditable data pipelines.
+Software engineer with 4+ years building backend services and web applications across financial services, enterprise consulting, and application security. At Citigroup, I build production AI workflows with retrieval-augmented generation, release-gated model evaluation, confidence-based human review, and auditable data pipelines.
 
 - Building AI/ML services with **Python, FastAPI, RAG, LLMs, and vector search**
 - Designing reliable backends with **human review, evaluation gates, observability, and security controls**
 - Shipping on **AWS and Azure** with PostgreSQL, DynamoDB, MongoDB, and SQL Server
 - M.S. in Information Technology, **Arizona State University**, 2025
+
+## Experience snapshot
+
+- **Citigroup — Software Engineer, AI/ML:** Built a Gemini-powered inquiry-classification and RAG workflow with human review, audit persistence, and release-gated evaluation at ~92% accuracy.
+- **Neudesic, an IBM company — Software Engineer:** Owned customer, employee, and admin applications serving 2,000+ daily users; reduced API latency by 32%.
+- **Hexaware Technologies — Software Engineer:** Extended static-analysis language detection and optimized MongoDB reporting workflows over 10K+ JSON records.
 
 ## Selected work
 
@@ -25,6 +32,7 @@ Software engineer with 4+ years building backend services and web applications a
 |---|---|---|
 | [Computer-Use Automation System](https://github.com/Gouthamraju11/computer-use-automation-system) | LLM-guided discovery turns a natural-language UI task into a versioned capability, then replays it deterministically with policy enforcement, redacted evidence, recovery paths, and human handoff. | TypeScript · OpenAI Responses API · Chrome |
 | [Multi-Agent AI DocPipeline](https://github.com/Gouthamraju11/MultiAgent-AI-DocPipeline) | Three specialized agents classify, extract, and validate documents, with structured outputs, retries, confidence signals, and human-review routing. | Python · FastAPI · LangChain · AWS Bedrock · React |
+| PolicyNavigator AI | Citation-grounded document intelligence with query rewriting, confidence scoring, hallucination detection, and automated synthetic Q&A evaluation. | Python · OpenAI API · RAG · Vector search · Streamlit |
 | [Secure Task Management System](https://github.com/Gouthamraju11/Secure-Task-Management-System) | Full-stack multi-tenant task platform with JWT authentication, three-role RBAC, organization-scoped data access, audit logging, and a Kanban workflow. | NestJS · Angular · TypeScript · PostgreSQL |
 | [GitHub Repository Explorer](https://github.com/Gouthamraju11/GitHub-Repository-Explorer) | Type-safe repository search and discovery interface built on the GitHub API. | React · TypeScript · GitHub API |
 
@@ -63,5 +71,6 @@ I am interested in AI/ML and backend engineering roles where reliability matters
 <p align="center">
   <a href="https://www.linkedin.com/in/gouthamraju11/">Connect on LinkedIn</a> ·
   <a href="https://gouthamraju11.github.io">View my portfolio</a> ·
+  <a href="https://gouthamraju11.github.io/assets/Goutham_Raju_Resume.pdf">Download my resume</a> ·
   <a href="mailto:goutham.s@mailjobhub.com">Get in touch</a>
 </p>
