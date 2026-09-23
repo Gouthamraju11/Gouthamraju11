@@ -1,80 +1,67 @@
-# Hi, I'm Goutham Raju 👋
+<h1 align="center">Goutham Raju</h1>
 
-Full-Stack Software Engineer with 2+ years of production experience — .NET Core / C# backends, Angular frontends, and cloud-native architecture on Azure & AWS. M.S. Information Technology, ASU (GPA 4.0).
+<p align="center">
+  <strong>AI/ML Software Engineer · Backend Systems · Production LLM Applications</strong>
+</p>
 
-🌐 [gouthamraju11.github.io](https://gouthamraju11.github.io) &nbsp;|&nbsp; 📧 gouthamraju224@gmail.com
+<p align="center">
+  <a href="https://gouthamraju11.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gouthamraju11/">LinkedIn</a> ·
+  <a href="mailto:goutham.s@mailjobhub.com">Email</a>
+</p>
 
----
+## About
 
-## 🛠 Tech Stack
+Software engineer with 4+ years building backend services and web applications across financial services, enterprise consulting, and application security. I build production AI systems with retrieval-augmented generation, multi-agent orchestration, model evaluation, confidence-based review workflows, and auditable data pipelines.
 
-**Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- Building AI/ML services with **Python, FastAPI, RAG, LLMs, and vector search**
+- Designing reliable backends with **human review, evaluation gates, observability, and security controls**
+- Shipping on **AWS and Azure** with PostgreSQL, DynamoDB, MongoDB, and SQL Server
+- M.S. in Information Technology, **Arizona State University**, 2025
 
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+## Selected work
 
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
-## 💼 Experience Highlights
-
-**Community Dreams Foundation** — Software Engineer *(Feb 2026 – Present)*
-> Built a full-stack enterprise platform from scratch — ASP.NET Core Web API, Entity Framework Core, Angular 17+, 76-table PostgreSQL schema, NIST-aligned RBAC, 72-test unit suite.
-
-**Neudesic (An IBM Company)** — Software Engineer *(Feb 2022 – Jan 2024)*
-> Delivered full-stack solutions across 3 production apps serving **2,000+ daily users** — cut API latency 32%, improved CI/CD reliability 25%, maintained 99.5% uptime SLA.
-
-**The Sparks Foundation** — Software Engineer Intern *(Aug 2021 – Oct 2021)*
-> Serverless backend on AWS (Lambda, API Gateway, DynamoDB) sustaining 1,000+ daily transactions at sub-300ms latency.
-
----
-
-## 🚀 Projects
-
-| Project | Stack | Highlights |
+| Project | What it demonstrates | Stack |
 |---|---|---|
-| [Secure Task Management System](https://github.com/Gouthamraju11/Secure-Task-Management-System) | NestJS · Angular 17 · TypeScript · PostgreSQL | JWT auth, 3-role RBAC, Kanban UI, multi-tenant DB isolation |
-| [MultiAgent AI DocPipeline](https://github.com/Gouthamraju11/MultiAgent-AI-DocPipeline) | C# · Python · AWS Bedrock · FastAPI · Angular | Processes 500+ docs/batch; distributed pipeline with Angular review UI |
-| [GitHub Repository Explorer](https://github.com/Gouthamraju11/GitHub-Repository-Explorer) | React · TypeScript · GitHub API | Search and browse GitHub repos with live API integration |
-| [Email Alert Face Detection](https://github.com/Gouthamraju11/Email-alert-face-detection-system) | Python · OpenCV | Real-time unauthorized access detection with automated email alerts |
+| [Computer-Use Automation System](https://github.com/Gouthamraju11/computer-use-automation-system) | LLM-guided discovery turns a natural-language UI task into a versioned capability, then replays it deterministically with policy enforcement, redacted evidence, recovery paths, and human handoff. | TypeScript · OpenAI Responses API · Chrome |
+| [Multi-Agent AI DocPipeline](https://github.com/Gouthamraju11/MultiAgent-AI-DocPipeline) | Three specialized agents classify, extract, and validate documents, with structured outputs, retries, confidence signals, and human-review routing. | Python · FastAPI · LangChain · AWS Bedrock · React |
+| [Secure Task Management System](https://github.com/Gouthamraju11/Secure-Task-Management-System) | Full-stack multi-tenant task platform with JWT authentication, three-role RBAC, organization-scoped data access, audit logging, and a Kanban workflow. | NestJS · Angular · TypeScript · PostgreSQL |
+| [GitHub Repository Explorer](https://github.com/Gouthamraju11/GitHub-Repository-Explorer) | Type-safe repository search and discovery interface built on the GitHub API. | React · TypeScript · GitHub API |
 
----
+## Engineering impact
 
-## 🏅 Certifications
+- Held an LLM inquiry-classification workflow at **~92% accuracy** with release-gated evaluation and retrieval-drift checks.
+- Reduced manual triage effort by **~30%** with a Gemini-powered classification and RAG workflow.
+- Cut API latency by **32%** by replacing N+1 access patterns with batched joins and composite indexes.
+- Improved CI/CD build reliability by **25%** through end-to-end tracing and root-cause analysis.
+- Extended a language-detection engine to PHP and Bash, improving file-detection accuracy by **25%**.
 
-- Microsoft Certified: **Azure Fundamentals** (AZ-900)
-- Microsoft Certified: **Azure Data Fundamentals** (DP-900)
-- **AWS Academy Graduate** — Cloud Architecting
+## Core stack
 
----
+**AI and LLM engineering**
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gouthamraju11&show_icons=true&theme=default&hide_border=true&count_private=true)
+**Backend, data, and cloud**
 
----
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📫 Let's Connect
+## Current focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouthamraju11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://gouthamraju11.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gouthamraju224@gmail.com)
+I am interested in AI/ML and backend engineering roles where reliability matters: grounded generation, measurable model quality, human-in-the-loop review, secure APIs, and cloud-native systems designed to operate beyond the demo stage.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gouthamraju11/">Connect on LinkedIn</a> ·
+  <a href="https://gouthamraju11.github.io">View my portfolio</a> ·
+  <a href="mailto:goutham.s@mailjobhub.com">Get in touch</a>
+</p>
